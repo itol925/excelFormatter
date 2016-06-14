@@ -1,0 +1,11 @@
+E:\opengl_projects\excelFormatter\excelFormatter\bin\Debug\excelFormatter.exe.config
+E:\opengl_projects\excelFormatter\excelFormatter\obj\Debug\excelFormatter.csprojResolveAssemblyReference.cache
+E:\opengl_projects\excelFormatter\excelFormatter\obj\Debug\excelFormatter.Form1.resources
+E:\opengl_projects\excelFormatter\excelFormatter\obj\Debug\excelFormatter.Properties.Resources.resources
+E:\opengl_projects\excelFormatter\excelFormatter\obj\Debug\excelFormatter.csproj.GenerateResource.Cache
+E:\opengl_projects\excelFormatter\excelFormatter\bin\Debug\excelFormatter.exe
+E:\opengl_projects\excelFormatter\excelFormatter\bin\Debug\excelFormatter.pdb
+E:\opengl_projects\excelFormatter\excelFormatter\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\opengl_projects\excelFormatter\excelFormatter\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\opengl_projects\excelFormatter\excelFormatter\obj\Debug\excelFormatter.exe
+E:\opengl_projects\excelFormatter\excelFormatter\obj\Debug\excelFormatter.pdb
